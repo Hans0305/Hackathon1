@@ -1,0 +1,12 @@
+
+
+Hello Hans this is your hACKATON feedback. In general you implement well the DOM manipulation and event listeners.
+Always be aware that when you present a project it need to be working in the moment you upload it. I have to comment
+some lines in your code for it to work. I liked the styling you made. I will recommend not to put any script in to your html
+
+Also if you want to work with dates and time you can use the date library on javascrypt and call
+new Date() that creates a date object with the current date and time.
+
+Keep working and if you need help to finish this project let me know. 
+
+COngratulations.

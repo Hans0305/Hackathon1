@@ -20,7 +20,7 @@ function listLength(){
 function createListElement() {
 	var li = document.createElement("li"); // creates an element "li"
 	li.appendChild(document.createTextNode(input.value)); //makes text from input field to the li text
-	var getTime = document.getElementById("calendarTime").value;
+	// var getTime = document.getElementById("calendarTime").value;
 	//li.appendChild(document.createTextNode(getTime.value)); get the selenceted value in the datetimeselector into the li. 
 	ul.appendChild(li); //adds li to ul
 	input.value = ""; //Reset text input field
